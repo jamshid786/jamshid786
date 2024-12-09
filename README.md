@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🎓 I'm graduate in B.com Computer Application<br>- 🔭 I’m Intern @ LUMINAR TECHNOLAB<br>- 📚 I'm currently learning MEARN FULL STACK DEVELOPMENT<br>- E-Mail : jamshidjaleel7@gmail.com</p>
+<p align="left">- 🎓 I'm B.Com Computer Application Graduate<br>- 🔭 I’m Intern @ LUMINAR TECHNOLAB<br>- 📚 I'm currently learning MEARN FULL STACK DEVELOPMENT<br>- E-Mail : jamshidjaleel7@gmail.com</p>
 
 ###
 
